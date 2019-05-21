@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/ml0echa/firstLab/_apis/build/status/ml0echa.ContosoAir?branchName=master)](https://dev.azure.com/ml0echa/firstLab/_build/latest?definitionId=1&branchName=master)
 
 
 # Microsoft.Github CI Demo
@@ -40,7 +40,7 @@ p_comosdb_name | database specific resource name | `db`
 
 > e.g. previous parameter examples will create resources `contoso-air-db-dev` and `contoso-air-db-dev`.
 
-Then you run the ARM template with the following commands ([Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest) required): 
+Then you run the ARM template with the following commands ([Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest) required):
 
 ```bash
 cd deployment
